@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "Calendario",
   "version": "1.0.0",
   "description": "Simple Node.js server",
   "main": "server.js",
